@@ -17,3 +17,16 @@
 /Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.dll
 /Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.pdb
 /Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.genruntimeconfig.cache
+/Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/bin/Debug/netcoreapp3.1/Portfolio.Views.dll
+/Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/bin/Debug/netcoreapp3.1/Portfolio.Views.pdb
+/Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.RazorAssemblyInfo.cache
+/Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.RazorAssemblyInfo.cs
+/Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.TagHelpers.input.cache
+/Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.TagHelpers.output.cache
+/Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.RazorCoreGenerate.cache
+/Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/obj/Debug/netcoreapp3.1/Razor/Views/Portfolio/Contact.cshtml.g.cs
+/Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/obj/Debug/netcoreapp3.1/Razor/Views/Portfolio/Index.cshtml.g.cs
+/Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/obj/Debug/netcoreapp3.1/Razor/Views/Portfolio/Projects.cshtml.g.cs
+/Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.RazorTargetAssemblyInfo.cs
+/Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.Views.pdb
+/Users/douglasherman/Desktop/CodingDojo/C#/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.csproj.CopyComplete

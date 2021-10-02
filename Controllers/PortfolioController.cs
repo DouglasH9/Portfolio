@@ -4,21 +4,21 @@ namespace Portfolio.Controllers
     public class PortfolioController : Controller
     {
         [HttpGet ("")]
-        public string Index()
+        public IActionResult Index()
         {
-            return "Hello hello from the Portfolio Controller!";
+            return View();
         }
 
         [HttpGet ("projects")]
-        public string Projects()
+        public IActionResult Projects()
         {
-            return "These are my projects";
+            return View();
         }
 
         [HttpGet ("contact")]
-        public string Contact()
+        public IActionResult Contact()
         {
-            return "This is my contact info";
+            return View();
         }
     }
 }

@@ -29,19 +29,11 @@ namespace Portfolio
         {
             if (env.IsDevelopment())
             {
-                app.UseMvc();
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseRouting();
-
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapGet("/", async context =>
-                {
-                    await context.Response.WriteAsync("Hey, what up tho!");
-                });
-            });
+            app.UseStaticFiles();
+            app.UseMvc();
         }
     }
 }
